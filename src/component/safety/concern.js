@@ -97,8 +97,9 @@ export default class Concern extends React.Component {
             let sortOrder = false;
             const sortBars = () => {
                 sortOrder = !sortOrder; 
+
                 dataset.sort((a, b) => sortOrder ? b.yes - a.yes : a.yes - b.yes);
-                console.log(dataset)
+                
                 yScale.domain(dataset.map(d => d.var_label));
 
                 d3.select(".axis-y-concern")
