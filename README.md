@@ -16,10 +16,5 @@ Data & Source:
 [React](https://reactjs.org/)  
 [d3.js](https://d3js.org/)
 
-##  Credits 
-@[Yupeng Lei](https://github.com/YupengLei)  
-@[Delaware Data Innovation Lab](https://ddil.ai/)  
-@[Tech Impact](https://techimpact.org/)
-
 ##  License  
 GNU AFFERO GENERAL PUBLIC LICENSE
